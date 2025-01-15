@@ -1,0 +1,27 @@
+﻿@model Projet.ViewModels.ClaimViewModel
+
+@{
+    ViewData["Title"] = "Modifier une Réclamation";
+}
+
+<h2>Modifier une Réclamation</h2>
+
+<form asp-action="Edit" method="post">
+    
+
+    <div class="form-group">
+        <label asp-for="ArticleId"></label>
+        <select asp-for="ArticleId" class="form-control" asp-items="ViewBag.Articles"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Status"></label>
+        <input asp-for="Status" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enregistrer</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+</form>

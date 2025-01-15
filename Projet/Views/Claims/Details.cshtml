@@ -1,0 +1,28 @@
+﻿@model Projet.Models.Claims
+
+@{
+    ViewData["Title"] = "Détails de la réclamation";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <h3>Client</h3>
+    <p>@Model.UserEmail</p>
+
+    <h3>Article</h3>
+    <p>@Model.Article.Name</p>
+
+    <h3>Description</h3>
+    <p>@Model.Description</p>
+
+    <h3>Status</h3>
+    <p>@Model.Status</p>
+
+    <h3>Date</h3>
+    <p>@Model.Date.ToShortDateString()</p>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+</div>
