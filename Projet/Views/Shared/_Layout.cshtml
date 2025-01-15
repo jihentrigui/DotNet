@@ -4,26 +4,25 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - ProjetSap</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrapLumen.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ProjetSap.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProjetSap</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" href="#">ProjetSap</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
 
@@ -39,40 +38,38 @@
                             if (roles.Contains("Client"))
                             {
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Claims" asp-action="Index">Faire une réclamation</a>
+                                    <a class="nav-link text-light" asp-controller="Claims" asp-action="Index">Faire une réclamation</a>
                                 </li>
                             }
                             else if (roles.Contains("Responsable"))
                             {
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Article" asp-action="Index">Articles</a>
+                                    <a class="nav-link text-light" asp-controller="Article" asp-action="Index">Articles</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Claims" asp-action="Index">Gérer les réclamations</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="SparePart" asp-action="Index">Spare Part</a>
+                                    <a class="nav-link text-light" asp-controller="Claims" asp-action="Index">Gérer les réclamations</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="TechnicalIntervention" asp-action="Index">Technical Intervention</a>
+                                    <a class="nav-link text-light" asp-controller="SparePart" asp-action="Index">Spare Part</a>
                                 </li>
-
+                                <li class="nav-item">
+                                    <a class="nav-link text-light" asp-controller="TechnicalIntervention" asp-action="Index">Technical Intervention</a>
+                                </li>
                             }
 
                             <li class="nav-item">
                                 <form method="post" asp-controller="Account" asp-action="Logout">
-                                    <button type="submit" class="btn btn-link nav-link">Logout @User.Identity.Name</button>
+                                    <button type="submit" class="btn btn-link nav-link text-light">Logout @User.Identity.Name</button>
                                 </form>
                             </li>
                         }
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Register</a>
+                                <a class="nav-link text-light" asp-controller="Account" asp-action="Register">Register</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Login</a>
+                                <a class="nav-link text-light" asp-controller="Account" asp-action="Login">Login</a>
                             </li>
                         }
                     </ul>
@@ -80,6 +77,7 @@
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -91,6 +89,7 @@
             &copy; 2025 - ProjetSap - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

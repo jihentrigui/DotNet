@@ -146,3 +146,4 @@ D:\.Net\Projet\Projet\obj\Debug\net8.0\refint\Projet.dll
 D:\.Net\Projet\Projet\obj\Debug\net8.0\Projet.pdb
 D:\.Net\Projet\Projet\obj\Debug\net8.0\Projet.genruntimeconfig.cache
 D:\.Net\Projet\Projet\obj\Debug\net8.0\ref\Projet.dll
+D:\.Net\Projet\Projet\obj\Debug\net8.0\Projet.sourcelink.json

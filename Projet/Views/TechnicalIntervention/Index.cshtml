@@ -1,59 +1,40 @@
 ﻿@model IEnumerable<Projet.Models.TechnicalIntervention>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Liste des Interventions Techniques";
 }
 
-<h1>Index</h1>
+<h2>Liste des Interventions Techniques</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-primary" asp-action="Create">Ajouter une Intervention</a>
 </p>
+
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.InterventionDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IsWarranty)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.LaborCost)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TotalCost)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Claim)
-            </th>
-            <th></th>
+            <th>Réclamation</th>
+            <th>Date d'Intervention</th>
+            <th>Garantie</th>
+            <th>Coût Main-d'Œuvre</th>
+            <th>Coût Total</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.InterventionDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IsWarranty)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LaborCost)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TotalCost)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Claim.ClaimId)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.TechnicalInterventionId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.TechnicalInterventionId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.TechnicalInterventionId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var intervention in Model)
+        {
+            <tr>
+                <td>@intervention.Claim.Description</td>
+                <td>@intervention.InterventionDate.ToShortDateString()</td>
+                <td>@(intervention.IsWarranty ? "Oui" : "Non")</td>
+                <td>@intervention.LaborCost</td>
+                <td>@intervention.TotalCost</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@intervention.TechnicalInterventionId">Modifier</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@intervention.TechnicalInterventionId">Supprimer</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

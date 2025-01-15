@@ -4,55 +4,37 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h2>Create Article</h2>
 
-<h4>Article</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Category" class="control-label"></label>
-                <input asp-for="Category" class="form-control" />
-                <span asp-validation-for="Category" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="IsUnderWarranty" /> @Html.DisplayNameFor(model => model.IsUnderWarranty)
-                </label>
-            </div>
-            <div class="form-group">
-                <label asp-for="StockQuantity" class="control-label"></label>
-                <input asp-for="StockQuantity" class="form-control" />
-                <span asp-validation-for="StockQuantity" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
-                <span asp-validation-for="Description" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
     </div>
-</div>
+    <div class="form-group">
+        <label for="Category">Category</label>
+        <input type="text" class="form-control" id="Category" name="Category" value="@Model.Category" required />
+    </div>
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input type="number" class="form-control" id="Price" name="Price" value="@Model.Price" required />
+    </div>
+    <div class="form-group">
+        <label for="StockQuantity">Stock Quantity</label>
+        <input type="number" class="form-control" id="StockQuantity" name="StockQuantity" value="@Model.StockQuantity" required />
+    </div>
+    <div class="form-group">
+        <label for="IsUnderWarranty">Is Under Warranty</label>
+        <input type="checkbox" asp-for="IsUnderWarranty" />
+    </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description">@Model.Description</textarea>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Create Article</button>
+    </div>
+</form>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
+<a href="@Url.Action("Index", "Article")" class="btn btn-secondary mt-3">Back to List</a>

@@ -4,7 +4,6 @@
 
 <form asp-action="Create" method="post">
 
-
     <div class="form-group">
         <label for="ArticleId">Article</label>
         <select asp-for="ArticleId" asp-items="ViewBag.Articles" class="form-control"></select>
@@ -17,11 +16,33 @@
         <span asp-validation-for="Description" class="text-danger"></span>
     </div>
 
+
+    <!-- Si le statut est généré automatiquement, vous pouvez le rendre en lecture seule -->
     <div class="form-group">
         <label for="Status">Statut</label>
-        <input asp-for="Status" class="form-control" />
+        <input asp-for="Status" class="form-control" /> <!-- Si vous voulez le rendre en lecture seule -->
         <span asp-validation-for="Status" class="text-danger"></span>
     </div>
 
     <button type="submit" class="btn btn-primary">Soumettre</button>
 </form>
+
+<!-- Affichage des erreurs de validation -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<!-- Inclure les scripts de validation -->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

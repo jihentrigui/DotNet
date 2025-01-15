@@ -8,6 +8,7 @@ using Projet.ViewModels;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Projet.Controllers
 {
@@ -36,6 +37,11 @@ namespace Projet.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ClaimViewModel model)
         {
+          
+
+
+
+
             if (ModelState.IsValid)
             {
                 try
@@ -46,6 +52,8 @@ namespace Projet.Controllers
                     {
                         return Unauthorized("Vous devez être connecté pour effectuer cette action.");
                     }
+
+
 
                     // Vérification de l'article
                     var article = await _context.Articles.FindAsync(model.ArticleId);
@@ -58,10 +66,11 @@ namespace Projet.Controllers
                     // Créer et sauvegarder le Claim
                     var claim = new Claims
                     {
+                        UserEmail = user?.Email, // Associer l'email à chaque réclamation
                         UserId = user.Id, // Associer au IdentityUser
                         ArticleId = model.ArticleId,
                         Description = model.Description,
-                        Status = "Pending", // Statut par défaut
+                        Status = model.Status, // Statut par défaut
                         Date = DateTime.Now,
                     };
 
@@ -73,15 +82,27 @@ namespace Projet.Controllers
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Erreur lors de l'ajout du Claim : {ex.Message}");
+                    using (var writer = new StreamWriter("log.txt", true))
+                    {
+                        // Afficher l'exception principale
+                        Console.WriteLine($"Erreur lors de l'ajout de la réclamation : {ex.Message}");
+
+                        // Vérifier si une inner exception existe et l'afficher
+                        if (ex.InnerException != null)
+                        {
+                            writer.WriteLine($"Inner Exception : {ex.InnerException.Message}");
+                        }
+
+                                       }
+
                     ModelState.AddModelError("", "Une erreur s'est produite. Veuillez réessayer.");
                 }
             }
 
+            // Recharger la liste des articles en cas d'erreur
             ViewBag.Articles = new SelectList(_context.Articles, "ArticleId", "Name");
             return View(model);
         }
-
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {

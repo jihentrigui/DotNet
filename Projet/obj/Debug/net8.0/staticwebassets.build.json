@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hi1LIfl19h/qOIizFd91DcKKzvZ6lbXwVeDQK+eKhus=",
+  "Hash": "JPxDP6ff7avjRUuKLFre+0ExTuv4MyIs1jaN8okvET0=",
   "Source": "Projet",
   "BasePath": "_content/Projet",
   "Mode": "Default",
@@ -414,6 +414,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\.Net\\Projet\\Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrapLumen.css",
+      "SourceId": "Projet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\Projet\\Projet\\wwwroot\\",
+      "BasePath": "_content/Projet",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrapLumen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrapLumen.css"
     },
     {
       "Identity": "D:\\.Net\\Projet\\Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",

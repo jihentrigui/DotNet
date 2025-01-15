@@ -1,12 +1,12 @@
 ﻿@model Projet.Models.SparePart
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Delete Spare Part";
 }
 
-<h1>Delete</h1>
+<h2>Delete Spare Part</h2>
 
-<h3>Are you sure you want to delete this?</h3>
+<h4>Are you sure you want to delete this item?</h4>
 <div>
     <h4>SparePart</h4>
     <hr />
@@ -30,10 +30,10 @@
             @Html.DisplayFor(model => model.Quantity)
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="SparePartId" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
     </form>
 </div>

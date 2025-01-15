@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<Projet.Models.SparePart>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Spare Parts List";
 }
 
-<h1>Index</h1>
+<h1>Spare Parts List</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Create New Spare Part</a>
 </p>
 <table class="table">
     <thead>
@@ -37,9 +37,9 @@
                 @Html.DisplayFor(modelItem => item.Quantity)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.SparePartId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.SparePartId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.SparePartId">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.SparePartId" class="btn btn-info">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.SparePartId" class="btn btn-warning">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.SparePartId" class="btn btn-danger">Delete</a>
             </td>
         </tr>
 }

@@ -4,11 +4,12 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h2>Mes Réclamations</h2>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<div class="mb-3">
+    <a asp-action="Create" class="btn btn-primary">Ajouter une Réclamation</a>
+</div>
+
 <table class="table">
     <thead>
         <tr>
@@ -49,9 +50,8 @@
                 @Html.DisplayFor(modelItem => item.Article.Category)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ClaimId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ClaimId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ClaimId">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.ClaimId" class="btn btn-warning btn-sm">Modifier</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ClaimId" class="btn btn-danger btn-sm">Supprimer</a>
             </td>
         </tr>
 }

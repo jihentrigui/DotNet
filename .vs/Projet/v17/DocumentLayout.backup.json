@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\.Net\\Projet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,44 +55,67 @@
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\viewmodels\\technicalinterventionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\viewmodels\\technicalinterventionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\Projet\\Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\models\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\models\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,36 +138,8 @@
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\claims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\claims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\models\\repository\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\repository\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\technicalinterventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,14 +154,6 @@
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\models\\technicalintervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,35 +166,8 @@
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\20250115151543_majidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -210,10 +206,8 @@
       "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|d:\\.net\\projet\\projet\\migrations\\20250115181313_adduseremailtoclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FFC2C-A4F1-49DF-A470-503AAD031D8A}|Projet\\Projet.csproj|solutionrelative:projet\\migrations\\20250115181313_adduseremailtoclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -223,297 +217,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TechnicalInterventionViewModel.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
-              "RelativeDocumentMoniker": "Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
-              "RelativeToolTip": "Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA0wAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:52:19.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Create.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Create.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Create.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Claims\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:48:10.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250115181313_AddUserEmailToClaims.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
-              "RelativeDocumentMoniker": "Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
-              "RelativeToolTip": "Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:13:15.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Index.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Claims\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:48:34.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClaimViewModel.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\ClaimViewModel.cs",
-              "RelativeDocumentMoniker": "Projet\\ViewModels\\ClaimViewModel.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\ClaimViewModel.cs",
-              "RelativeToolTip": "Projet\\ViewModels\\ClaimViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:50:22.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Delete.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Delete.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Claims\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:48:23.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Details.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Details.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Details.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Claims\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T16:55:15.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClaimsController.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\ClaimsController.cs",
-              "RelativeDocumentMoniker": "Projet\\Controllers\\ClaimsController.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\ClaimsController.cs",
-              "RelativeToolTip": "Projet\\Controllers\\ClaimsController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwCsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:53:08.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
-              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:47:51.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
-              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:47:56.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Create.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Create.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Create.cshtml",
-              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:48:02.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Index.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Index.cshtml",
               "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Index.cshtml",
               "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T15:47:42.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Projet\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:51:53.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Claims.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Claims.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\Claims.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Claims.cs",
-              "RelativeToolTip": "Projet\\Models\\Claims.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA2wCAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:51:58.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Create.cshtml",
+              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:50:13.015Z",
+              "WhenOpened": "2025-01-15T15:48:02.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "Projet\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "Projet\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:51:00.598Z",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Details.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Details.cshtml",
+              "RelativeToolTip": "Projet\\Views\\SparePart\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:48:21.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Program.cs",
-              "RelativeDocumentMoniker": "Projet\\Program.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Program.cs",
-              "RelativeToolTip": "Projet\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:46:08.761Z",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:47:56.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\AppDBContext.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\AppDBContext.cs",
-              "RelativeToolTip": "Projet\\Models\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:52:21.264Z",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "RelativeToolTip": "Projet\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:47:51.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClaimRepository.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ClaimRepository.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\ClaimRepository.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ClaimRepository.cs",
-              "RelativeToolTip": "Projet\\Models\\Repository\\ClaimRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:52:43.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ISparePartRepository.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ISparePartRepository.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\ISparePartRepository.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ISparePartRepository.cs",
-              "RelativeToolTip": "Projet\\Models\\Repository\\ISparePartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:53:30.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Projet\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Projet\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:54:00.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Delete.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Delete.cshtml",
               "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Delete.cshtml",
               "RelativeToolTip": "Projet\\Views\\SparePart\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T15:48:16.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Create.cshtml",
+              "RelativeToolTip": "Projet\\Views\\SparePart\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:48:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Index.cshtml",
+              "RelativeToolTip": "Projet\\Views\\SparePart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:48:35.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Edit.cshtml",
+              "RelativeToolTip": "Projet\\Views\\SparePart\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:48:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Claims\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:48:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Edit.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Edit.cshtml",
@@ -526,28 +364,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Index.cshtml",
-              "RelativeToolTip": "Projet\\Views\\SparePart\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Article\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:48:35.299Z",
+              "WhenOpened": "2025-01-15T15:24:13.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Article\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:23:47.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Details.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Details.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Claims\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:55:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Delete.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Delete.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Claims\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:48:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Claims\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Claims\\Create.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Claims\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:48:10.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "Claims.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Claims.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\Claims.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Claims.cs",
+              "RelativeToolTip": "Projet\\Models\\Claims.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:51:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Edit.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Edit.cshtml",
-              "RelativeToolTip": "Projet\\Views\\SparePart\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:48:26.631Z",
+              "WhenOpened": "2025-01-15T15:24:07.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\ClaimsController.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:53:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Delete.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Article\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:23:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Article\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:24:02.568Z",
               "EditorCaption": ""
             },
             {
@@ -560,178 +501,70 @@
               "RelativeToolTip": "Projet\\Controllers\\SparePartController.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:52:35.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T15:52:35.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TechnicalInterventionController.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\TechnicalInterventionController.cs",
-              "RelativeDocumentMoniker": "Projet\\Controllers\\TechnicalInterventionController.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\TechnicalInterventionController.cs",
-              "RelativeToolTip": "Projet\\Controllers\\TechnicalInterventionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:50:26.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Create.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Create.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Create.cshtml",
-              "RelativeToolTip": "Projet\\Views\\SparePart\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:48:10.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SparePartRepository.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\SparePartRepository.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\SparePartRepository.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\SparePartRepository.cs",
-              "RelativeToolTip": "Projet\\Models\\Repository\\SparePartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:54:02.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TechnicalIntervention.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\TechnicalIntervention.cs",
-              "RelativeDocumentMoniker": "Projet\\Models\\TechnicalIntervention.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\TechnicalIntervention.cs",
-              "RelativeToolTip": "Projet\\Models\\TechnicalIntervention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:51:14.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Details.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\SparePart\\Details.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\SparePart\\Details.cshtml",
-              "RelativeToolTip": "Projet\\Views\\SparePart\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:48:21.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Projet\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T14:47:25.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Projet\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Projet\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "TechnicalInterventionViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
+              "RelativeDocumentMoniker": "Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
+              "RelativeToolTip": "Projet\\ViewModels\\TechnicalInterventionViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:53:04.187Z",
+              "WhenOpened": "2025-01-15T15:52:19.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Projet\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "Projet\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "ClaimRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ClaimRepository.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\ClaimRepository.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ClaimRepository.cs",
+              "RelativeToolTip": "Projet\\Models\\Repository\\ClaimRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:50:54.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:52:43.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Delete.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Delete.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Article\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:23:56.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Create.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Create.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Create.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Article\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:23:47.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20250115151543_MajIdentity.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115151543_MajIdentity.cs",
-              "RelativeDocumentMoniker": "Projet\\Migrations\\20250115151543_MajIdentity.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115151543_MajIdentity.cs",
-              "RelativeToolTip": "Projet\\Migrations\\20250115151543_MajIdentity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "ClaimViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\ClaimViewModel.cs",
+              "RelativeDocumentMoniker": "Projet\\ViewModels\\ClaimViewModel.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\ClaimViewModel.cs",
+              "RelativeToolTip": "Projet\\ViewModels\\ClaimViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:15:43.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:50:22.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ArticleController.cs",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\ArticleController.cs",
-              "RelativeDocumentMoniker": "Projet\\Controllers\\ArticleController.cs",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\ArticleController.cs",
-              "RelativeToolTip": "Projet\\Controllers\\ArticleController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:23:14.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 28,
+              "Title": "xsiwtskm..sql",
               "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql",
-              "ToolTip": "SQLQuery1.sql *",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\xsiwtskm..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-15T15:31:13.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T15:31:13.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 26,
               "Title": "AppDBContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Migrations\\AppDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Projet\\Migrations\\AppDBContextModelSnapshot.cs",
@@ -739,51 +572,191 @@
               "RelativeToolTip": "Projet\\Migrations\\AppDBContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:34:10.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T15:34:10.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Details.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Details.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Details.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Article\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:24:02.568Z",
-              "EditorCaption": ""
+              "DocumentIndex": 27,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:54:00.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Edit.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Edit.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Article\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:24:07.74Z",
-              "EditorCaption": ""
+              "DocumentIndex": 51,
+              "Title": "20250115181313_AddUserEmailToClaims.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
+              "RelativeToolTip": "Projet\\Migrations\\20250115181313_AddUserEmailToClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:13:15.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TechnicalInterventionController.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\TechnicalInterventionController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\TechnicalInterventionController.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\TechnicalInterventionController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\TechnicalInterventionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:50:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SparePartRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\SparePartRepository.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\SparePartRepository.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\SparePartRepository.cs",
+              "RelativeToolTip": "Projet\\Models\\Repository\\SparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:54:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TechnicalIntervention.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\TechnicalIntervention.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\TechnicalIntervention.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\TechnicalIntervention.cs",
+              "RelativeToolTip": "Projet\\Models\\TechnicalIntervention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:51:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:53:04.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projet\\Views\\Article\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Article\\Index.cshtml",
-              "RelativeToolTip": "Projet\\Views\\Article\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T15:24:13.249Z",
-              "EditorCaption": ""
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Projet\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Projet\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:50:54.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 40,
+              "Title": "20250115151543_MajIdentity.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115151543_MajIdentity.cs",
+              "RelativeDocumentMoniker": "Projet\\Migrations\\20250115151543_MajIdentity.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Migrations\\20250115151543_MajIdentity.cs",
+              "RelativeToolTip": "Projet\\Migrations\\20250115151543_MajIdentity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:15:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Projet\\Controllers\\ArticleController.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Projet\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:23:14.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Projet\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:51:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Projet\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Projet\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:50:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Projet\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Projet\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:51:00.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Program.cs",
+              "RelativeDocumentMoniker": "Projet\\Program.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Program.cs",
+              "RelativeToolTip": "Projet\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:46:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\AppDBContext.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Projet\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:52:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ISparePartRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ISparePartRepository.cs",
+              "RelativeDocumentMoniker": "Projet\\Models\\Repository\\ISparePartRepository.cs",
+              "ToolTip": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ISparePartRepository.cs",
+              "RelativeToolTip": "Projet\\Models\\Repository\\ISparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:53:30.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Article.cs",
               "RelativeDocumentMoniker": "Projet\\Models\\Article.cs",
@@ -791,12 +764,11 @@
               "RelativeToolTip": "Projet\\Models\\Article.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:52:14.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:52:14.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\appsettings.json",
               "RelativeDocumentMoniker": "Projet\\appsettings.json",
@@ -804,12 +776,11 @@
               "RelativeToolTip": "Projet\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T14:46:32.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:46:32.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "ArticleRepository.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\ArticleRepository.cs",
               "RelativeDocumentMoniker": "Projet\\Models\\Repository\\ArticleRepository.cs",
@@ -821,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "IArticleRepository.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\IArticleRepository.cs",
               "RelativeDocumentMoniker": "Projet\\Models\\Repository\\IArticleRepository.cs",
@@ -833,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "IClaimRepository.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\Repository\\IClaimRepository.cs",
               "RelativeDocumentMoniker": "Projet\\Models\\Repository\\IClaimRepository.cs",
@@ -845,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "SparePart.cs",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Models\\SparePart.cs",
               "RelativeDocumentMoniker": "Projet\\Models\\SparePart.cs",
@@ -857,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\Account\\Login.cshtml",
@@ -869,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\Home\\Privacy.cshtml",
@@ -881,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.Net\\Projet\\Projet\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Projet\\Views\\Home\\Index.cshtml",

@@ -1,0 +1,11 @@
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Utilisateur connecté : 1c7978f7-185f-420e-955b-349f5ed4fd60
+Erreur lors de l'ajout du Claim : An error occurred while saving the entity changes. See the inner exception for details.
+Inner Exception : Cannot insert the value NULL into column 'UserEmail', table 'dbproj.dbo.Claims'; column does not allow nulls. INSERT fails.
