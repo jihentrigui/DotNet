@@ -12,7 +12,6 @@ using System.IO;
 
 namespace Projet.Controllers
 {
-    [Authorize]
     public class ClaimsController : Controller
     {
         private readonly AppDBContext _context;
@@ -193,7 +192,6 @@ namespace Projet.Controllers
             return View(model);
         }
 
-        [Authorize(Roles = "Client")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -203,6 +201,8 @@ namespace Projet.Controllers
 
             var claim = await _context.Claims
                 .Include(c => c.Article)
+                .Include(c => c.IdentityUser) // Inclure les informations sur l'article
+
                 .FirstOrDefaultAsync(m => m.ClaimId == id);
 
             if (claim == null)
@@ -213,7 +213,6 @@ namespace Projet.Controllers
             return View(claim);
         }
 
-        [Authorize(Roles = "Client")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

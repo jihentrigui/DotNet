@@ -1,7 +1,7 @@
 ﻿@model Projet.Models.SparePart
 
 @{
-    ViewData["Title"] = "Spare Parts Details";
+    ViewData["Title"] = "Details de la pièce rechangée";
 }
 
 <h2>Spare Parts Details</h2>
@@ -33,6 +33,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.SparePartId" class="btn btn-info">Edit</a> |
-    <a asp-action="Index" class="btn btn-info">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.SparePartId" class="btn btn-info">Modifier</a> |
+    <a asp-action="Index" class="btn btn-info">Retour</a>
 </div>

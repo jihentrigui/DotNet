@@ -4,11 +4,14 @@
     ViewData["Title"] = "Index";
 }
 
-<h2>Mes Réclamations</h2>
+<h2>Les Réclamations</h2>
 
-<div class="mb-3">
-    <a asp-action="Create" class="btn btn-primary">Ajouter une Réclamation</a>
-</div>
+@if (User.IsInRole("Client"))
+{
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-primary">Ajouter une Réclamation</a>
+    </div>
+}
 
 <table class="table">
     <thead>
@@ -47,12 +50,15 @@
                     @Html.DisplayFor(modelItem => item.UserEmail)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Article.Category)
+                    @Html.DisplayFor(modelItem => item.Article.Name)
             </td>
             <td>
                     <a asp-action="Edit" asp-route-id="@item.ClaimId" class="btn btn-warning btn-sm">Modifier</a> |
-                    <a asp-action="Delete" asp-route-id="@item.ClaimId" class="btn btn-danger btn-sm">Supprimer</a>
-            </td>
+
+
+                    <a asp-action = "Delete" asp-route-id = "@item.ClaimId" class="btn btn-danger btn-sm">Supprimer</a>
+    }
+            
         </tr>
 }
     </tbody>
